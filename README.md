@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mehmet ali karadeveci
-- 👀 I’m interested in Html-css,js
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in HTML CSS JavaScript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/mehmet-ali-karadeveci-073799203/)
 
 <!---
